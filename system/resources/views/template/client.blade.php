@@ -83,51 +83,50 @@
 
 <div class="row pt-4 pl-5 ">  
         <div class="card " style="width: 13rem; margin-left: 80px;">
-          <img src="{{url('public')}}/img/client/akustik.jpg" class="card-img-top" alt="...">
+          <img src="#" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Gitar Akustik</h5>
-            <p class="card-text">RP 5.000.000</p>
+            <h5 class="card-title"></h5>
+            <p class="card-text"></p>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i> 
-           <p> <a href="{{url('/akustik')}}" class="btn btn-warning">BELI</a></p>
+           <p> <a href="#" class="btn btn-warning"></a></p>
           </div>
         </div>
         <div class="card ml-4 mr-4" style="width: 13rem;">
-          <img src="{{url('public')}}/img/client/bass1.jpg" class="card-img-top" alt="...">
+          <img src="#" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Gitar Bass</h5>
-            <p class="card-text">RP 3.500.000</p>
+            <h5 class="card-title"></h5>
+            <p class="card-text"></p>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i> 
-            <p><a href="{{url('/bass')}}" class="btn btn-warning">BELI</a></p>
+            <p><a href="#" class="btn btn-warning"></a></p>
           </div>
         </div>
         <div class="card" style="width: 13rem;">
-          <img src="{{url('public')}}/img/client/drum1.jpg" class="card-img-top" alt="...">
+          <img src="#" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Drum</h5>
-            <p class="card-text">RP 6.500.000</p>
+            <h5 class="card-title"></h5>
+            <p class="card-text"></p>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <p><a href="drum" class="btn btn-warning">BELI</a></p>
+            <p><a href="#" class="btn btn-warning"></a></p>
           </div>
         </div>
         <div class="card ml-4 mr-4" style="width: 13rem;">
-          <img src="{{url('public')}}/img/client/piano.jpg" class="card-img-top" alt="...">
+          <img src="#" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Piano</h5>
-            <p class="card-text">RP 4.890.000</p>
-            <i class="fas fa-star"></i>
+            <h5 class="card-title"></h5>
+            <p class="card-text">"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i> 
-           <p> <a href="piano" class="btn btn-warning">BELI</a></p>
+           <p> <a href="#" class="btn btn-warning"></a></p>
             
           </div>
         </div>
